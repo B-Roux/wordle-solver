@@ -10,4 +10,5 @@ def print_wordle_matches (word_builder, in_word, not_in_word):
             elif  any([pair[0] != '_' and pair[0] != pair[1] for pair in zip(word_builder, word)]): continue
             else: print(word.upper())
 
-print_wordle_matches ('_oist', 'ts', 'whxenad')
+if __name__ == '__main__':
+    print_wordle_matches ('_____', '', '')
