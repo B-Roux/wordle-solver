@@ -14,7 +14,7 @@ I have also attatched a convenient file that should contain all of the words acc
 
 First, I enter a complete guess (in my case, "could"):
 
-#####IMAGE1
+![Step one of playing Wordle: Entered word 'could'](/images/step1.png)
 
 Then I take this image to craft the first function call:
 ```
@@ -41,7 +41,7 @@ Which outputs:
 
 I enter guess from the list (in my case, "roast"):
 
-#####IMAGE2
+![Step two of playing Wordle: Entered word 'roast'](/images/step1.png)
 
 Then I take this image to craft the first function call:
 ```
@@ -63,7 +63,7 @@ Which outputs:
 
 I enter guess from the list (in my case, "moist"):
 
-#####IMAGE3
+![Step three of playing Wordle: Entered word 'moist' and won](/images/step1.png)
 
 which turns out to be correct!
 
