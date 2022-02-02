@@ -1,6 +1,3 @@
-import os
-os.chdir('C:/Users/baren/Documents/tmp')
-
 def print_wordle_matches (word_builder, in_word, not_in_word):
     with open('wordle_words.txt', 'r') as dictionary:
         for word in dictionary:
