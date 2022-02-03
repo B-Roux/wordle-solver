@@ -41,7 +41,7 @@ Which outputs:
 
 I enter guess from the list (in my case, "roast"):
 
-![Step two of playing Wordle: Entered word 'roast'](/images/step1.png)
+![Step two of playing Wordle: Entered word 'roast'](/images/step2.png)
 
 Then I take this image to craft the first function call:
 ```
@@ -63,7 +63,7 @@ Which outputs:
 
 I enter guess from the list (in my case, "moist"):
 
-![Step three of playing Wordle: Entered word 'moist' and won](/images/step1.png)
+![Step three of playing Wordle: Entered word 'moist' and won](/images/step3.png)
 
 which turns out to be correct!
 
