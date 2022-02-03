@@ -14,9 +14,7 @@ I have also attatched a convenient file that should contain all of the words acc
 
 First, I enter a complete guess (in my case, "could"):
 
-<div style="display:block; width:100%; text-align:center;">
-  <img src="https://raw.githubusercontent.com/B-Roux/wordle-solver/main/images/step1.png" style="display:inline-block; width:500px;">
-</div
+<img src="https://raw.githubusercontent.com/B-Roux/wordle-solver/main/images/step1.png" style="display:inline-block; width:400px;">
 
 Then I take this image to craft the first function call:
 ```
@@ -43,9 +41,7 @@ Which outputs:
 
 I enter guess from the list (in my case, "roast"):
 
-<div style="display:block; width:100%; text-align:center;">
-  <img src="https://raw.githubusercontent.com/B-Roux/wordle-solver/main/images/step2.png" style="display:inline-block; width:500px;">
-</div
+<img src="https://raw.githubusercontent.com/B-Roux/wordle-solver/main/images/step2.png" style="display:inline-block; width:400px;">
 
 Then I take this image to craft the first function call:
 ```
@@ -67,9 +63,7 @@ Which outputs:
 
 I enter guess from the list (in my case, "moist"):
 
-<div style="display:block; width:100%; text-align:center;">
-  <img src="https://raw.githubusercontent.com/B-Roux/wordle-solver/main/images/step3.png" style="display:inline-block; width:500px;">
-</div
+<img src="https://raw.githubusercontent.com/B-Roux/wordle-solver/main/images/step3.png" style="display:inline-block; width:400px;">
 
 which turns out to be correct!
 
